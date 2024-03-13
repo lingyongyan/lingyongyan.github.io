@@ -10,12 +10,14 @@ author_profile: true
 {% if site.author.googlescholar %}
   You can also find my articles on \[[my Google Scholar]({{site.author.googlescholar}})\]
 {% endif %}
+- 2024
+    - Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. Accepted to *NAACL 2024*.
+    - Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Shuaiqiang Wang, Chong Meng, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Improving the Robustness of Large Language Models via Consistency Alignment. Accepted to *LREC-COLING 2024*.
 - 2023
     - Weiwei Sun, ***Lingyong Yan***, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren. 2023. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. Accepted to *EMNLP 2023*.
     - Yukun Zhao, ***Lingyong Yan\*(co-first author)***, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. 2023. DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment. Accepted to *Findings of EMNLP 2023*.
     - Weiwei Sun, ***Lingyong Yan***, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren. 2023. Learning to Tokenize for Generative Retrieval. Accepted to *NeurIPS 2023*.
     - Weiwei Sun, Zheng Chen, Xinyu Ma, ***Lingyong Yan***, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren. 2023. Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers. In *CIKM 2023 Workshop on Generative Recommendation*.
-    - Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. 2023. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. arXiv preprint arXiv: 2310.17918.
 - 2021
     - ***Lingyong Yan***, Xianpei Han and Le Sun. 2021. Progressive Adversarial Learning for Bootstrapping: A Case Study on Entity Set Expansion. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing* (EMNLP2021). ([paper](https://aclanthology.org/2021.emnlp-main.762.pdf), [code](https://github.com/lingyongyan/BootstrapGAN))
     - Fangchao Liu, Xinyan Xiao, ***Lingyong Yan***, Hongyu Lin, Xianpei Han, Dai Dai, Hua Wu and Le Sun. 2021. From Learning-to-Match to Learning-to-Discriminate:Global Prototype Learning for Few-shot Relation Classification. In *CCL 2021*.

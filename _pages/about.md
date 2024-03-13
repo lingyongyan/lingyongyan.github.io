@@ -26,14 +26,16 @@ Education
 
 Recent Publications
 ===
-- Weiwei Sun, **Lingyong Yan**, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. Accepted to EMNLP 2023.
-- Yukun Zhao\*, **Lingyong Yan\*(co-first author)**, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment. Accepted to Findings of EMNLP 2023.
-- Weiwei Sun, ***Lingyong Yan***, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren. Learning to Tokenize for Generative Retrieval. Accepted to NeurIPS 2023.
+- Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. Accepted to *NAACL 2024*.
+- Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Shuaiqiang Wang, Chong Meng, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Improving the Robustness of Large Language Models via Consistency Alignment. Accepted to *LREC-COLING 2024*.
+- Weiwei Sun, **Lingyong Yan**, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. Accepted to *EMNLP 2023*.
+- Yukun Zhao\*, **Lingyong Yan\*(co-first author)**, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment. Accepted to *Findings of EMNLP 2023*.
+- Weiwei Sun, ***Lingyong Yan***, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren. Learning to Tokenize for Generative Retrieval. Accepted to *NeurIPS 2023*.
 - **Lingyong Yan**, Xianpei Han and Le Sun. Progressive Adversarial Learning for Bootstrapping: A Case Study on Entity Set Expansion. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing* (EMNLP2021). ([paper](https://aclanthology.org/2021.emnlp-main.762.pdf), [code](https://github.com/lingyongyan/BootstrapGAN))
 - Fangchao Liu, **Lingyong Yan**, Hongyu Lin, Xianpei Han, Le Sun. Element Intervention for Open Relation Extraction. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing* (ACL 2021).
 - Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, **Lingyong Yan**, Meng Liao, Tong Xue, Jin Xu. Knowledgeable or Educated Guess: Rethinking Masked Language Models as Factual Knowledge Bases. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing* (ACL 2021).
 
 Academic Committees
 ===
-- Reviewer: ACL, EMNLP, AAAI, WWW, NLPCC.
+- Reviewer: ACL, EMNLP, NAACL, AAAI, WWW, TKDE.
 
