@@ -33,7 +33,7 @@ Selected Publications
 - Fangchao Liu, **Lingyong Yan**, Hongyu Lin, Xianpei Han, Le Sun. Element Intervention for Open Relation Extraction. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing* (ACL 2021).
 - Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, **Lingyong Yan**, Meng Liao, Tong Xue, Jin Xu. Knowledgeable or Educated Guess: Rethinking Masked Language Models as Factual Knowledge Bases. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing* (ACL 2021).
 
-Academic Committees
+Services
 ===
 - Reviewer: ACL, EMNLP, NAACL, AAAI, WWW, TKDE, etc.
 
