@@ -16,16 +16,11 @@ He has published over 10 papers in leading journals and conferences. His work ha
 We are looking for enthusiastic and self-motivated students as interns in Baidu Search.
 If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong [at] baidu.com .
 
-Research Interests
+Recent Research Interests
 ===
 - Large Language Model and Generative Retrieval
 - Reinforcement Learning and Multi-agent Cooperation
 - Information Extraction & Knowledge Graph
-
-Education
-===
-- B.S. in Huazhong University of Science and Technology, China. (2010 - 2014)
-- M.S. & Ph.D. in Chines Information Process Lab, ISCAS.  (2014 – 2021)
 
 Selected Publications
 ===
