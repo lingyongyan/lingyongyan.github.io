@@ -7,11 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Lingyong Yan is currently a Research Scientist and Staff Engineer at Baidu Search.
+Before that, he received his Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Sun Le.
+He has a broad interest in several research areas, including Natural Language Processing, Information Retrieval, Large Language Models, Reinforcement Learning, etc.
+He has published over 10 papers in leading journals and conferences. His work has received the Outstanding Paper Award of EMNLP 2023.
 
-Lingyong Yan is currently a Staff Engineer in Deep QA Team at Baidu Inc.
-Before that, he recieved the Ph.D. degree in Institute of Software, Chinese	Academy of Sciences (ISCAS) under the supervisor of Professor Sun Le.
-Early, he got his bachelor degree in Software Engineering from Huazhong University of Science and Technology.
-He has a broad interest in several research areas, including Natural Lanuge Processing, Information Retrieval, Large Language Models, etc.
+**🔔Recruitment of Research Interns🔔**
+We are looking for enthusiastic and self-motivated students as interns in Baidu Search.
+If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong [at] baidu.com .
 
 Research Interests
 ===
@@ -24,7 +27,7 @@ Education
 - B.S. in Huazhong University of Science and Technology, China. (2010 - 2014)
 - M.S. & Ph.D. in Chines Information Process Lab, ISCAS.  (2014 – 2021)
 
-Recent Publications
+Selected Publications
 ===
 - Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. Accepted to *NAACL 2024*.
 - Yukun Zhao, ***Lingyong Yan***, Weiwei Sun, Guoliang Xing, Shuaiqiang Wang, Chong Meng, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Improving the Robustness of Large Language Models via Consistency Alignment. Accepted to *LREC-COLING 2024*.
@@ -37,5 +40,5 @@ Recent Publications
 
 Academic Committees
 ===
-- Reviewer: ACL, EMNLP, NAACL, AAAI, WWW, TKDE.
+- Reviewer: ACL, EMNLP, NAACL, AAAI, WWW, TKDE, etc.
 
