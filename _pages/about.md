@@ -19,8 +19,8 @@ If you are interested in Large Language Model and Artificial General Intelligenc
 Recent Research Interests
 ===
 - Large Language Model and Generative Retrieval
-- LLM Agent and Tool Learning
-- LLM Alignment and Reinforcement Learning
+- Generative Agent and Tool Learning
+- Model Alignment and Reinforcement Learning
 
 Selected Publications
 ===
