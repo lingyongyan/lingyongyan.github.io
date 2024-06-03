@@ -9,18 +9,18 @@ redirect_from:
 ---
 Lingyong Yan is currently a Research Scientist and Staff Engineer at Baidu Search.
 Before that, he received his Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Sun Le.
-He has a broad interest in several research areas, including Natural Language Processing, Information Retrieval, Large Language Models, Reinforcement Learning, etc.
+He has a broad interest in several research areas, including Large Language Model, Information Retrieval, Reinforcement Learning, etc.
 He has published over 10 papers in leading journals and conferences. His work has received the Outstanding Paper Award of EMNLP 2023.
 
 **🔔Recruitment of Research Interns🔔**
-We are looking for enthusiastic and self-motivated students as interns in Baidu Search.
+I'm looking for enthusiastic and self-motivated students as interns in Baidu Search.
 If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong [at] baidu.com .
 
 Recent Research Interests
 ===
 - Large Language Model and Generative Retrieval
-- Reinforcement Learning and Multi-agent Cooperation
-- Information Extraction & Knowledge Graph
+- LLM Agent and Tool Learning
+- LLM Alignment and Reinforcement Learning
 
 Selected Publications
 ===
