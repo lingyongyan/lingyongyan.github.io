@@ -13,7 +13,7 @@ He has a broad interest in several research areas, including Large Language Mode
 He has published over 10 papers in leading journals and conferences. His work has received the Outstanding Paper Award of EMNLP 2023.
 
 **🔔Recruitment of Research Interns🔔**
-I'm looking for enthusiastic and self-motivated ph.D. students as interns in Baidu Search.
+I'm looking for enthusiastic and self-motivated Ph.D. students as interns in Baidu Search.
 If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong [at] baidu.com .
 
 Recent Research Interests
