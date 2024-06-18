@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Lingyong Yan is currently a Research Scientist and Staff Engineer at Baidu Search.
-Before that, he received his Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Sun Le.
-He has a broad interest in several research areas, including Large Language Model, Information Retrieval, Reinforcement Learning, etc.
-He has published over 10 papers in leading journals and conferences. His work has received the Outstanding Paper Award of EMNLP 2023.
+I work as Research Scientist/Staff Engineer at Baidu Search now in Beijing, collaborating with Dr. [Dawei Yin](https://www.yindawei.com) and Dr. [Shuaiqiang Wang](http://wangshuaiqiang.net).
+I received my Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Sun Le and Professor Xianpei Han.
+My recent research interets include large language model, information retrieval, super-alignment, etc.
+I published over 10 papers in leading journals and conferences.
+And my work has received the Outstanding Paper Award of EMNLP 2023.
 
 **🔔Recruitment of Research Interns🔔**
 I'm looking for enthusiastic and self-motivated Ph.D. students as interns in Baidu Search.
