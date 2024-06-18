@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work as Research Scientist/Staff Engineer at Baidu Search now in Beijing, collaborating with Dr. [Dawei Yin](https://www.yindawei.com) and Dr. [Shuaiqiang Wang](http://wangshuaiqiang.net).
+I work as a Research Scientist/Staff Engineer at Baidu Search now in Beijing, collaborating with Dr. [Dawei Yin](https://www.yindawei.com) and Dr. [Shuaiqiang Wang](http://wangshuaiqiang.net).
 I received my Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Sun Le and Professor Xianpei Han.
 My recent research interets include large language model, information retrieval, super-alignment, etc.
 I published over 10 papers in leading journals and conferences.
