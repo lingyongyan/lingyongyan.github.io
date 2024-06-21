@@ -15,7 +15,7 @@ And my work has received the Outstanding Paper Award of EMNLP 2023.
 
 **🔔Recruitment of Research Interns🔔**
 I'm looking for enthusiastic and self-motivated Ph.D. students as interns in Baidu Search.
-If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong [at] baidu.com .
+If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong#baidu.com(#➡️at).
 
 Recent Research Interests
 ===
@@ -36,5 +36,9 @@ Selected Publications
 
 Services
 ===
+### Program Committee Member
 - Area Chair/Action Editor: ACL ARR
-- Reviewer: ACL, EMNLP, NAACL, AAAI, TKDE, etc.
+- Reviewer: ACL, EMNLP, NAACL, AAAI, etc.
+
+### Journal Reviewer
+- Transactions on Knowledge and Data Engineering
