@@ -12,11 +12,13 @@ author_profile: true
 {% endif %}
 
 - 2024
-    - Junda Zhu, **Lingyong Yan\*(co-first author)**, Haibo Shi, Dawei Yin, Lei Sha. 2024. ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. *arXiv preprint arXiv:2405.18111*.
+    - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Haibo Shi, Dawei Yin, Lei Sha. 2024. ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. *Accepted to EMNLP 2024*.
+    - Weiwei Sun, Zhengliang Shi, Jiulong Wu, **Lingyong Yan**, Xinyu Ma, Yiding Liu, Min Cao, Dawei Yin, Zhaochun Ren. 2024. MINT: A Benchmark for Evaluating Instructed Information Retrieval. *Accepted to EMNLP 2024*.
+    - Yougang Lyu, **Lingyong Yan**, Shuaiqiang Wang, Haibo Shi, Dawei Yin, Pengjie Ren, Zhumin Chen, Maarten de Rijke and Zhaochun Ren. 2024. KnowTuning: Knowledge-aware Fine-tuning for Large Language Models. *Accepted to EMNLP 2024*.
+    - Zhengliang Shi, Shen Gao, Xiuyi Chen, **Lingyong Yan**, Haibo Shi, Dawei Yin, Zhumin Chen, Pengjie Ren, Suzan Verberne and Zhaochun Ren. 2024. Learning to Use Tools via Cooperative and Interactive Agents. *Accepted to EMNLP 2024 Findings*.
+    - Bolei He, Nuo Chen, Xinran He, **Lingyong Yan**, Zhenkai Wei, Jinchang Luo, Zhen-Hua Ling. 2024. Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation. *Accepted to EMNLP 2024 Findings*.
     - Zhengliang Shi, Shen Gao, Xiuyi Chen, Yue Feng, **Lingyong Yan**, Haibo Shi, Dawei Yin, Zhumin Chen, Suzan Verberne and Zhaochun Ren. 2024. Chain of Tools: Large Language Model is an Automatic Multi-tool Learner. *arXiv preprint arXiv:2405.16533*.
     - Guanying Jiang, **Lingyong Yan\*(co-first author)**, Haibo Shi and Dawei Yin. 2024. The Real, the Better: Aligning Large Language Models with Online Human Behaviors. *arXiv preprint arXiv:2405.00578*.
-    - Zhengliang Shi, Shen Gao, Xiuyi Chen, **Lingyong Yan**, Haibo Shi, Dawei Yin, Zhumin Chen, Pengjie Ren, Suzan Verberne and Zhaochun Ren. 2024. Learning to Use Tools via Cooperative and Interactive Agents. *arXiv preprint arXiv:2403.03031*.
-    - Yougang Lyu, **Lingyong Yan**, Shuaiqiang Wang, Haibo Shi, Dawei Yin, Pengjie Ren, Zhumin Chen, Maarten de Rijke and Zhaochun Ren. 2024. KnowTuning: Knowledge-aware Fine-tuning for Large Language Models. *arXiv preprint arXiv:2402.11176*.
     - Yukun Zhao, **Lingyong Yan**, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. In *proceedings of Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL 2024).
     - Yukun Zhao, **Lingyong Yan**, Weiwei Sun, Guoliang Xing, Shuaiqiang Wang, Chong Meng, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Improving the Robustness of Large Language Models via Consistency Alignment. In *proceedings of Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* (LREC-COLING 2024).
 - 2023
