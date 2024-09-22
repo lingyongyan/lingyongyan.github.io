@@ -36,6 +36,7 @@ Selected Publications
 - Yukun Zhao, **Lingyong Yan\*(co-first author)**, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. 2023. DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment. In *proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023*.
 - Weiwei Sun, **Lingyong Yan**, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren. 2023. Learning to Tokenize for Generative Retrieval. In *proceedings of Advances in Neural Information Processing Systems* (NeurIPS 2023).
 - **Lingyong Yan**, Xianpei Han and Le Sun. Progressive Adversarial Learning for Bootstrapping: A Case Study on Entity Set Expansion. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing* (EMNLP2021). ([paper](https://aclanthology.org/2021.emnlp-main.762.pdf), [code](https://github.com/lingyongyan/BootstrapGAN))
+
 Services
 ===
 ### Program Committee Member
