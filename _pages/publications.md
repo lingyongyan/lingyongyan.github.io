@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if site.author.googlescholar %}
-  You can also find my articles on \[[my Google Scholar]({{site.author.googlescholar}})\]
+  You can also find my articles on my [Google Scholar]({{site.author.googlescholar}}).
 {% endif %}
 
 - 2024
