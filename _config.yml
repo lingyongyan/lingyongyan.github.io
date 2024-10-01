@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Lingyong Yan"
+title                    : "Lingyong Yan (颜令勇)"
 title_separator          : "-"
 name                     : &name "Lingyong Yan"
 description              : &description "Research Scientist in Baidu Search."
