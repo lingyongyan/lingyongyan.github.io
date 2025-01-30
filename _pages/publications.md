@@ -11,6 +11,11 @@ author_profile: true
   You can also find my articles on my [Google Scholar]({{site.author.googlescholar}}).
 {% endif %}
 
+- 2025
+    - Jiayi Wu, Hengyi Cai, **Lingyong Yan**, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin and Ming Gao. 2025. PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization. *Accepted to NAACL 2025*.
+    - Yougang Lyu, **Lingyong Yan**, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. 2025. MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization. *Accepted to ICLR 2025*.
+    - Zhengliang Shi, Shen Gao, **Lingyong Yan**, Yue Feng, Xiuyi Chen, Zhumin Chen, Dawei Yin, Suzan Verberne and Zhaochun Ren. 2025. Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents. *Accepted to WWW 2025*.
+
 - 2024
     - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Haibo Shi, Dawei Yin, Lei Sha. 2024. ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. *Accepted to EMNLP 2024*.
     - Weiwei Sun, Zhengliang Shi, Jiulong Wu, **Lingyong Yan**, Xinyu Ma, Yiding Liu, Min Cao, Dawei Yin, Zhaochun Ren. 2024. MAIR: A Massive Benchmark for Evaluating Instructed Retrieval. *Accepted to EMNLP 2024*.
