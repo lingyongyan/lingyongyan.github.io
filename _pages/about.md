@@ -10,7 +10,7 @@ redirect_from:
 I work as a Research Scientist at Baidu Search now in Beijing, collaborating with Dr. [Dawei Yin](https://www.yindawei.com) and Dr. [Shuaiqiang Wang](http://wangshuaiqiang.net).
 I received my Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Le Sun and Professor Xianpei Han.
 My recent research interests include Large Language Model, Generative Agent, Model Alignment, etc.
-I published over 15 papers in leading AI conferences.
+I published over 20 papers in leading AI conferences.
 And my work has received the Outstanding Paper Award of EMNLP 2023.
 
 **🔔Recruitment of Research Interns🔔**
@@ -19,12 +19,16 @@ If you are interested in Large Language Model and Artificial General Intelligenc
 
 Recent News
 ===
+* [2025-05] **3 papers** get accepted by ACL 2025.
 * [2025-01] **3 papers** get accepted by WWW 2025, ICLR 2025 and NAACL 2025.
 * [2024-09] **5 papers** get accepted by EMNLP 2024.
 * [2024-05] Industry Talk "Retrieval-Augmented Generation in Baidu Search" at [LERC-COLING 2024](https://lrec-coling-2024.org/industry-day-program/).
 
 Selected Publications
 ===
+- Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, **Lingyong Yan$\dagger$**, Dawei Yin$\dagger$. 2025. Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation. *Accepted to ACL 2025*.
+- Zhengliang Shi, Yuhan Wang, **Lingyong Yan**, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren. 2025. Retrieval Models Aren’t Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models. *Accepted to ACL 2025 Findings*.
+- Yukun Zhao, **Lingyong Yan**, Zhenyang Li, Shuaiqiang Wang, Zhumin Chen, Zhaochun Ren, Dawei Yin. 2025. Task Knowledge Injection via Interpolations and Reinstatement for Large Language Model Generalization. *Accepted to ACL 2025 Findings*.
 - Jiayi Wu, Hengyi Cai, **Lingyong Yan**, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin and Ming Gao. 2025. PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization. *Accepted to NAACL 2025*.
 - Yougang Lyu, **Lingyong Yan**, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. 2025. MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization. *Accepted to ICLR 2025*.
 - Zhengliang Shi, Shen Gao, **Lingyong Yan**, Yue Feng, Xiuyi Chen, Zhumin Chen, Dawei Yin, Suzan Verberne and Zhaochun Ren. 2025. Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents. *Accepted to WWW 2025*.
