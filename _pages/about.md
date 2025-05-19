@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work as a Research Scientist at Baidu Search now in Beijing, collaborating with Dr. [Dawei Yin](https://www.yindawei.com) and Dr. [Shuaiqiang Wang](http://wangshuaiqiang.net).
-I received my Ph.D. degree from the Institute of Software, Chinese Academy of Sciences (ISCAS) under the supervision of Professor Le Sun and Professor Xianpei Han.
-My recent research interests include Large Language Model, Generative Agent, Model Alignment, etc.
-I published over 20 papers in leading AI conferences.
-And my work has received the Outstanding Paper Award of EMNLP 2023.
+I am currently a Research Scientist and Staff Engineer at the Agent Team in Baidu, Beijing, working on advancing the understanding, collaboration, and evolution of LLM-based agents.
+I received my Ph.D. from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Le Sun and Prof. Xianpei Han.
+My recent research interests include Large Language Models, Generative Agents, Model Alignment, and related topics.
+I have published over 20 papers at leading AI conferences, and my work received the Outstanding Paper Award at EMNLP 2023.
 
-**🔔Recruitment of Research Interns🔔**
-I'm looking for enthusiastic and self-motivated Ph.D. students as interns in Baidu Search.
-If you are interested in Large Language Model and Artificial General Intelligence, please send your resume to yanlingyong#baidu.com(#➡️at).
+### 🔔Research Intern Recruitment🔔
+
+I am looking for self-motivated Ph.D. students to join the Baidu Agent Team as research interns.
+If you are interested in Large Language Models and Artificial General Intelligence, feel free to send your resume to yanlingyong#baidu.com(#➡️at)!
 
 Recent News
 ===
