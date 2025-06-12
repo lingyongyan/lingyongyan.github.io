@@ -22,6 +22,7 @@ jobs:
       run: |
         pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
         pip install getorg --upgrade
+        bundle install
 
     - name: Run Jupyter Notebook
       run: |
