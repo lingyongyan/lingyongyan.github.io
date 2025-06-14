@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Scientist and Staff Engineer at the Agent Team in Baidu, Beijing, working on advancing the understanding, collaboration, and evolution of LLM-based agents.
-I received my Ph.D. from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Le Sun and Prof. Xianpei Han.
-My recent research interests include Large Language Models, Generative Agents, Model Alignment, and related topics.
+I am currently a Research Scientist and Staff Engineer at the Agent Team in Baidu Search (Beijing), working on advancing the research and development in Large Language Models (LLMs) and LLM-based Agents.
+I received my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Le Sun and Prof. Xianpei Han.
+My recent research interests include Large Language Models, LLM-based Agents, Model Alignment, and other related topics.
 I have published over 20 papers at leading AI conferences, and my work received the Outstanding Paper Award at EMNLP 2023.
 
 ### 🔔Research Intern Recruitment🔔
 
-I am looking for self-motivated Ph.D. students to join the Baidu Agent Team as research interns.
+I am looking for self-motivated Ph.D. students to join us as research interns.
 If you are interested in Large Language Models and Artificial General Intelligence, feel free to send your resume to yanlingyong#baidu.com(#➡️at)!
 
 Recent News
@@ -27,7 +27,7 @@ Recent News
 Selected Publications
 ===
 - Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, **Lingyong Yan$^\dagger$**, Dawei Yin$^\dagger$. 2025. Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation. *Accepted to ACL 2025*.
-- Zhengliang Shi, Yuhan Wang, **Lingyong Yan**, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren. 2025. Retrieval Models Aren’t Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models. *Accepted to ACL 2025 Findings*.
+- Zhengliang Shi, Yuhan Wang, **Lingyong Yan**, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren. 2025. Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models. *Accepted to ACL 2025 Findings*.
 - Yukun Zhao, **Lingyong Yan**, Zhenyang Li, Shuaiqiang Wang, Zhumin Chen, Zhaochun Ren, Dawei Yin. 2025. Task Knowledge Injection via Interpolations and Reinstatement for Large Language Model Generalization. *Accepted to ACL 2025 Findings*.
 - Jiayi Wu, Hengyi Cai, **Lingyong Yan**, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin and Ming Gao. 2025. PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization. *Accepted to NAACL 2025*.
 - Yougang Lyu, **Lingyong Yan**, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. 2025. MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization. *Accepted to ICLR 2025*.
