@@ -14,8 +14,8 @@ I have published over 20 papers at leading AI conferences, and my work received 
 
 ### 🔔Research Intern Recruitment🔔
 
-I am looking for self-motivated Ph.D. students to join us as research interns.
-If you are interested in Large Language Models and Artificial General Intelligence, feel free to send your resume to yanlingyong#baidu.com(#➡️at)!
+I am looking for self-motivated students to join us as research interns.
+If you are interested in Large Language Models and Artificial General Intelligence, feel free to send your resume to lingyongy#gmail.com(#➡️at).
 
 Recent News
 ===
