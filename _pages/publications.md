@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 - 2025
-    - Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, **Lingyong Yan\***, Dawei Yin\*. 2025. Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation. *Accepted to ACL 2025*.
+    - Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, **Lingyong Yan$$^\dagger$$**, Dawei Yin$$^\dagger$$. 2025. Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation. *Accepted to ACL 2025*.
     - Zhengliang Shi, Yuhan Wang, **Lingyong Yan**, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren. 2025. Retrieval Models Aren’t Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models. *Accepted to ACL 2025 Findings*.
     - Yukun Zhao, **Lingyong Yan**, Zhenyang Li, Shuaiqiang Wang, Zhumin Chen, Zhaochun Ren, Dawei Yin. 2025. Task Knowledge Injection via Interpolations and Reinstatement for Large Language Model Generalization. *Accepted to ACL 2025 Findings*.
     - Jiayi Wu, Hengyi Cai, **Lingyong Yan**, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin and Ming Gao. 2025. PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization. *Accepted to NAACL 2025*.
