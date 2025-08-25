@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+* [2025-08] **3 papers** get accepted by EMNLP 2025.
 * [2025-05] **3 papers** get accepted by ACL 2025.
 * [2025-01] **3 papers** get accepted by WWW 2025, ICLR 2025 and NAACL 2025.
 * [2024-11] Receiving the outstanding area chair award of EMNLP 2024.
