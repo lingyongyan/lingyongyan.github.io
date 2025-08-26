@@ -13,7 +13,7 @@ author_profile: true
 
 - 2025
     - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Shuaiqiang Wang, Dawei Yin, Lei Sha. 2025. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking. *Accpected to EMNLP 2025*.
-    - Jiulong Wu, Zhengliang Shi, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, **Lingyong Yan$$^\dagger$$**, Min Cao, Min Zhang. 2025. Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization. *Accpected to EMNLP 2025*.
+    - Jiulong Wu, Zhengliang Shi, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, **Lingyong Yan$$^\dagger$$**, Min Cao$$^\dagger$$, Min Zhang. 2025. Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization. *Accpected to EMNLP 2025*.
     - Nuo Chen, Yufei Gao, Yongnan Jin, Yan Hu, Anningzhe Gao, **Lingyong Yan**, Benyou Wang. 2025. Mitigating Short Board Effect via Dynamic Reward Balancing in Multi-reward LLM Optimization. *Accpected to EMNLP 2025 Findings*.
     - Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, **Lingyong Yan$$^\dagger$$**, Dawei Yin$$^\dagger$$. 2025. Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation. In *ACL 2025*.
     - Zhengliang Shi, Yuhan Wang, **Lingyong Yan**, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren. 2025. Retrieval Models Aren’t Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models. In *ACL 2025 Findings*.
