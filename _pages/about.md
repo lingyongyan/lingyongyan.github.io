@@ -23,7 +23,7 @@ Recent News
 * [2025-05] **3 papers** get accepted by ACL 2025.
 * [2025-01] **3 papers** get accepted by WWW 2025, ICLR 2025 and NAACL 2025.
 
-Selected Publications
+Recent Publications
 ===
 - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Shuaiqiang Wang, Dawei Yin, Lei Sha. 2025. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking. *Accpected to EMNLP 2025*.
 - Jiulong Wu, Zhengliang Shi, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, **Lingyong Yan$$^\dagger$$**, Min Cao$$^\dagger$$, Min Zhang. 2025. Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization. *Accpected to EMNLP 2025*.
@@ -44,7 +44,8 @@ Selected Publications
 - Weiwei Sun, **Lingyong Yan**, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren. 2023. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. In *proceedings of Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2023). <span style="color:red;">*Outstanding Paper* </span>
 - Yukun Zhao\*, **Lingyong Yan\*(co-first author)**, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin. 2023. DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment. In *proceedings of Findings of the Association for Computational Linguistics: EMNLP 2023*.
 - Weiwei Sun, **Lingyong Yan**, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren. 2023. Learning to Tokenize for Generative Retrieval. In *proceedings of Advances in Neural Information Processing Systems* (NeurIPS 2023).
-- **Lingyong Yan**, Xianpei Han and Le Sun. Progressive Adversarial Learning for Bootstrapping: A Case Study on Entity Set Expansion. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing* (EMNLP2021). ([paper](https://aclanthology.org/2021.emnlp-main.762.pdf), [code](https://github.com/lingyongyan/BootstrapGAN))
+
+See all my publications [here](/publications).
 
 Services
 ===
