@@ -12,6 +12,8 @@ author_profile: true
 {% endif %}
 
 - 2025
+    - Yiqun Chen, **Lingyong Yan**, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao. 2025. Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning. *Accpected to NeurIPS 2025*.
+    - Zhengliang Shi, **Lingyong Yan**, Dawei Yin, Suzan Verberne, Maarten de Rijke, Zhaochun Ren. 2025. Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers. *Accpected to NeurIPS 2025*.
     - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Shuaiqiang Wang, Dawei Yin, Lei Sha. 2025. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking. *Accpected to EMNLP 2025*.
     - Jiulong Wu, Zhengliang Shi, Shuaiqiang Wang, Jizhou Huang, Dawei Yin, **Lingyong Yan$$^\dagger$$**, Min Cao$$^\dagger$$, Min Zhang. 2025. Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization. *Accpected to EMNLP 2025*.
     - Nuo Chen, Yufei Gao, Yongnan Jin, Yan Hu, Anningzhe Gao, **Lingyong Yan**, Benyou Wang. 2025. Mitigating Short Board Effect via Dynamic Reward Balancing in Multi-reward LLM Optimization. *Accpected to EMNLP 2025 Findings*.
