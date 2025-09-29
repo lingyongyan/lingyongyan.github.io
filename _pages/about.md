@@ -7,15 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Scientist and Staff Engineer at the Agent Team in Baidu Search (Beijing), working on advancing the research and development in Large Language Models (LLMs) and LLM-based Agents.
+I am currently a Research Scientist / Staff Engineer at the Agent Team in Baidu Search (Beijing), working on advancing the research and development in Large Language Models (LLMs) and LLM-based Agents.
 I received my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Le Sun and Prof. Xianpei Han.
-My recent research interests include Large Language Models, LLM-based Agents, Model Alignment, and other related topics.
-I have published over 20 papers at leading AI conferences, and my work received the Outstanding Paper Award at EMNLP 2023.
+My research interests focus on Large Language Models, LLM-based Agents, Model Alignment, and related areas.
+I have published over 20 papers at top-tier AI conferences, including ACL, NeurIPS, ICLR and EMNLP, and my work received the Outstanding Paper Award at EMNLP 2023.
 
-### 🔔Research Intern Recruitment🔔
-
-I am looking for self-motivated students to join us as research interns.
-If you are interested, feel free to send your resume to yanlingyong#baidu.com(#➡️@).
+**🔔Recruitment🔔**: I am seeking several self-motivated Ph.D. candidates and graduates to join us as research interns or full-time employees. Please send your CV to yanlingyong [at] baidu.com if interested.
 
 Recent News
 ===
