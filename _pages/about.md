@@ -16,6 +16,7 @@ I have published over 20 papers at top-tier AI conferences, including ACL, NeurI
 
 Recent News
 ===
+* [2026-01] **3 papers** get accepted by AAAI 2026, TOIS and EACL 2026.
 * [2025-09] **2 papers** get accepted by NeurIPS 2025.
 * [2025-08] **3 papers** get accepted by EMNLP 2025.
 * [2025-05] **3 papers** get accepted by ACL 2025.

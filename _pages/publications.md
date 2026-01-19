@@ -14,6 +14,7 @@ author_profile: true
     - Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. *Accepted to AAAI 2026*.
 
 - 2025
+    -  Zhengliang Shi, **Lingyong Yan**, Weiwei Sun, Yue Feng, Pengjie Ren, Xinyu Ma, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Zhaochun Ren. Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models. *Transactions on Information Systems (TOIS)*. 2025.
     - Yiqun Chen, **Lingyong Yan**, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao. 2025. Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning. *Accepted to NeurIPS 2025*.
     - Zhengliang Shi, **Lingyong Yan**, Dawei Yin, Suzan Verberne, Maarten de Rijke, Zhaochun Ren. 2025. Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers. *Accepted to NeurIPS 2025*.
     - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Shuaiqiang Wang, Dawei Yin, Lei Sha. 2025. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking. *In EMNLP 2025*.
