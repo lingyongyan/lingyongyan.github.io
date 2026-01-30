@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lingyong Yan (颜令勇)"
 title_separator          : "-"
 name                     : &name "Lingyong Yan"
-description              : &description "Research Scientist in Baidu Search."
+description              : &description "Research Scientist in Baidu."
 url                      : "https://yanlingyong.net" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lingyongyan/lingyongyan.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "avatar_new.jpg"
   name             : "Dr. Lingyong Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist in Baidu Search."
+  bio              : "Research Scientist in Baidu."
   location         : "Beijing, China"
   employer         : 
   uri              : # URL

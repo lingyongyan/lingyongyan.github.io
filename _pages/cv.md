@@ -13,8 +13,8 @@ redirect_from:
 Work experience
 ======
 * Summer 2021 - Now: Staff Engineer and Search Scientist
-  * Baidu Search Team (2021-2024)
-  * Baidu Agent Team (2024-now)
+  * Baidu Search (2021-2025)
+  * Baidu Qianfan, Agent Team (2024-now)
 
 Education
 ===

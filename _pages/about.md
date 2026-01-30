@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Scientist / Staff Engineer at the Agent Team in Baidu Search (Beijing), working on advancing the research and development in Large Language Models (LLMs) and LLM-based Agents.
+I am currently a Research Scientist / Staff Engineer at the Agent Team in Baidu Qianfan (Beijing), working on advancing the research and development in Large Language Models (LLMs) and LLM-based Agents.
+Before that, I worked as a Research Scientist at Baidu Search.
 I received my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Le Sun and Prof. Xianpei Han.
 My research interests focus on Large Language Models, LLM-based Agents, Model Alignment, and related areas.
 I have published over 20 papers at top-tier AI conferences, including ACL, NeurIPS, ICLR and EMNLP, and my work received the Outstanding Paper Award at EMNLP 2023.
