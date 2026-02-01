@@ -14,7 +14,7 @@ Work experience
 ======
 * Summer 2021 - Now: Staff Engineer and Search Scientist
   * Baidu Search (2021-2025)
-  * Baidu Qianfan, Agent Team (2024-now)
+  * Baidu Qianfan, Agent Team (2025-now)
 
 Education
 ===
