@@ -27,6 +27,7 @@ Recent News
 
 Recent Publications
 ===
+  - Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.
   - Yang Liu, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, **Lingyong Yan**.LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts. *Accepted to EACL 2026*.
   - Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. In *AAAI 2026*.
 - Yiqun Chen, **Lingyong Yan**, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao. 2025. Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning. In *NeurIPS 2025*.
