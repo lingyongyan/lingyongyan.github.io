@@ -11,6 +11,7 @@ author_profile: true
   You can also find my articles on my [Google Scholar]({{site.author.googlescholar}}).
 {% endif %}
 - 2026
+    - Can Xu, **Lingyong Yan**, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang LiAdversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models. *Accepted to ACL 2026 Findings*.
     - Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.
     - Yang Liu, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, **Lingyong Yan**.LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts. *Accepted to EACL 2026*.
     - Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. In *AAAI 2026*.
@@ -53,6 +54,6 @@ author_profile: true
     - **Lingyong Yan**, Xianpei Han, Le Sun and Ben He. 2019. Learning to Bootstrap for Entity Set Expansion. In *Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2019). Hong Kong, China.([paper](https://www.aclweb.org/anthology/D19-1028.pdf), [code](https://github.com/lingyongyan/mcts-bootstrapping))
 
 - Preprint
-    - Lingyong Yan, Jiulong Wu, Dong Xie, Weixian Shi, Deguo Xia, Jizhou Huang. 2026. Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation. *arXiv preprint arXiv:2602.11790*.
+    - **Lingyong Yan**, Jiulong Wu, Dong Xie, Weixian Shi, Deguo Xia, Jizhou Huang. 2026. Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation. *arXiv preprint arXiv:2602.11790*.
     - Guanying Jiang\*, **Lingyong Yan\*(co-first author)**, Haibo Shi and Dawei Yin. 2024. The Real, the Better: Aligning Large Language Models with Online Human Behaviors. *arXiv preprint arXiv:2405.00578*.
     - **Lingyong Yan**, Xianpei Han, Le Sun, Fangchao Liu, and Ning Bian. 2020. From Bag of Sentences to Document: Distantly Supervised Relation Extraction via Machine Reading Comprehension. *arXiv preprint arXiv:2012.04334*.

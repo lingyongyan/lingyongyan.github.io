@@ -4,10 +4,12 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* [2026-02] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 * [2026-01] **3 papers** get accepted by AAAI 2026, TOIS and EACL 2026.
 * [2025-09] **2 papers** get accepted by NeurIPS 2025.
 * [2025-08] **3 papers** get accepted by EMNLP 2025.
 * [2025-05] **3 papers** get accepted by ACL 2025.
+* [2025-04] Launched the [心响 App](https://apps.apple.com/cn/app/%E5%BF%83%E5%93%8D/id6743755526) as the **Strategy Lead**.
 * [2025-01] **3 papers** get accepted by WWW 2025, ICLR 2025 and NAACL 2025.
 * [2024-11] Receiving the outstanding area chair award of EMNLP 2024.
 * [2024-09] **5 papers** get accepted by EMNLP 2024.

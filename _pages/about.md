@@ -7,15 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Scientist / Staff Engineer leading the Agent Strategy Team at Baidu Qianfan (Beijing), working on advancing the research and development in LLMs and LLM-based Agents.
-Before that, I worked as a Research Scientist at Baidu Search.
-I received my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Prof. Sun Le and Prof. Han Xianpei.
-My research interests focus on Large Language Models, LLM-based Agents, Model Alignment, and related areas.
-I have published over 20 papers at top-tier AI conferences, including ACL, NeurIPS, ICLR and EMNLP, and my work received the Outstanding Paper Award at EMNLP 2023.
+I am currently a Research Scientist / Staff Engineer at Baidu Qianfan (Beijing), where I lead a strategy team and drive both research and engineering on LLMs and LLM-based Agents.
+Prior to joining Qianfan, I was a Research Scientist at Baidu Search from 2021 to 2024.
+I obtained my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), advised by Prof. Le Sun and Prof. Xianpei Han.
+My research centers on Large Language Models, LLM-based Agents, Model Alignment, and related topics.
+I have authored more than 30 papers at top-tier AI venues such as ACL, NeurIPS, ICLR, and EMNLP, and was honored with the Outstanding Paper Award at EMNLP 2023.
 
 🔔Recruitment🔔
 ===
 We are seeking self-motivated Ph.D. candidates and graduates in (v)LLM, Agentic Reasoning, and Reinforcement Learning to join us as research interns and full-time researchers, respectively. Please send your CV to yanlingyong [at] baidu [dot] com if interested.
+
+Recent Highlights
+===
+* [2026-02] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+* [2025-04] Launched the [心响 App](https://apps.apple.com/cn/app/%E5%BF%83%E5%93%8D/id6743755526) as the **Strategy Lead**.
 
 Recent News
 ===
@@ -27,9 +32,11 @@ Recent News
 
 Recent Publications
 ===
-  - Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.
-  - Yang Liu, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, **Lingyong Yan**.LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts. *Accepted to EACL 2026*.
-  - Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. In *AAAI 2026*.
+
+- Can Xu, **Lingyong Yan**, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang LiAdversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models. *Accepted to ACL 2026 Findings*.
+- Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.
+- Yang Liu, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, **Lingyong Yan**.LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts. *Accepted to EACL 2026*.
+- Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. In *AAAI 2026*.
 - Yiqun Chen, **Lingyong Yan**, Weiwei Sun, Xinyu Ma, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao. 2025. Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning. In *NeurIPS 2025*.
 - Zhengliang Shi, **Lingyong Yan**, Dawei Yin, Suzan Verberne, Maarten de Rijke, Zhaochun Ren. 2025. Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers. In *NeurIPS 2025*.
 - Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Shuaiqiang Wang, Dawei Yin, Lei Sha. 2025. Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking. In *EMNLP 2025*.
@@ -41,13 +48,6 @@ Recent Publications
 - Jiayi Wu, Hengyi Cai, **Lingyong Yan**, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin and Ming Gao. 2025. PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization. In *NAACL 2025*.
 - Yougang Lyu, **Lingyong Yan**, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. 2025. MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization. In *ICLR 2025*.
 - Zhengliang Shi, Shen Gao, **Lingyong Yan**, Yue Feng, Xiuyi Chen, Zhumin Chen, Dawei Yin, Suzan Verberne and Zhaochun Ren. 2025. Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents. In *WWW 2025*.
-- Junda Zhu\*, **Lingyong Yan\*(co-first author)**, Haibo Shi, Dawei Yin, Lei Sha. 2024. ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. In *EMNLP 2024*.
-- Weiwei Sun, Zhengliang Shi, Jiulong Wu, **Lingyong Yan**, Xinyu Ma, Yiding Liu, Min Cao, Dawei Yin, Zhaochun Ren. 2024. MAIR: A Massive Benchmark for Evaluating Instructed Retrieval. In *EMNLP 2024*.
-- Yougang Lyu, **Lingyong Yan**, Shuaiqiang Wang, Haibo Shi, Dawei Yin, Pengjie Ren, Zhumin Chen, Maarten de Rijke and Zhaochun Ren. 2024. KnowTuning: Knowledge-aware Fine-tuning for Large Language Models. In *EMNLP 2024*.
-- Zhengliang Shi, Shen Gao, Xiuyi Chen, **Lingyong Yan**, Haibo Shi, Dawei Yin, Zhumin Chen, Pengjie Ren, Suzan Verberne and Zhaochun Ren. 2024. Learning to Use Tools via Cooperative and Interactive Agents. In *EMNLP 2024 Findings*.
-- Bolei He, Nuo Chen, Xinran He, **Lingyong Yan**, Zhenkai Wei, Jinchang Luo, Zhen-Hua Ling. 2024. Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation. In *EMNLP 2024 Findings*.
-- Yukun Zhao, **Lingyong Yan**, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method. In *proceedings of Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL 2024).
-- Yukun Zhao, **Lingyong Yan**, Weiwei Sun, Guoliang Xing, Shuaiqiang Wang, Chong Meng, Zhicong Cheng, Zhaochun Ren and Dawei Yin. 2024. Improving the Robustness of Large Language Models via Consistency Alignment. In *proceedings of Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* (LREC-COLING 2024).
 
 See all my publications [here](/publications).
 
