@@ -19,7 +19,7 @@ We are seeking self-motivated Ph.D. candidates and graduates in (v)LLM, Agentic 
 
 Recent Highlights
 ===
-* [2026-02] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+* [2026-05] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) with overall score 58.03. 
 * [2025-04] Launched the [心响 App](https://apps.apple.com/cn/app/%E5%BF%83%E5%93%8D/id6743755526) as the **Strategy Lead**.
 
 Recent News
