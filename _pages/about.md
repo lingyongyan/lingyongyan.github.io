@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Scientist / Staff Engineer at Baidu Qianfan (Beijing), where I lead a strategy team and drive both research and engineering on LLMs and LLM-based Agents.
+I am currently a Research Scientist / Staff Engineer at Qianfan (Baidu ACG), where I lead a strategy team and drive both research and engineering on LLMs and LLM-based Agents.
 Prior to joining Qianfan, I was a Research Scientist at Baidu Search from 2021 to 2024.
 I obtained my Ph.D. in 2021 from the Institute of Software, Chinese Academy of Sciences (ISCAS), advised by Prof. Le Sun and Prof. Xianpei Han.
 My research centers on Large Language Models, LLM-based Agents, Model Alignment, and related topics.
