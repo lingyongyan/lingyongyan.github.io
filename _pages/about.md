@@ -27,12 +27,12 @@ Recent News
 * [2026-01] **3 papers** get accepted by AAAI 2026, TOIS and EACL 2026.
 * [2025-09] **2 papers** get accepted by NeurIPS 2025.
 * [2025-08] **3 papers** get accepted by EMNLP 2025.
-* [2025-05] **3 papers** get accepted by ACL 2025.
 
 Recent Publications
 ===
 
-- Can Xu, **Lingyong Yan**, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li. Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models. *Accepted to ACL 2026 Findings*.
+- **Lingyong Yan\***, Jiulong Wu\*, Dong Xie, Weixian Shi, Deguo Xia, Jizhou Huang. 2026. Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation. *Accepted to SIGKDD 2026*.
+- Can Xu, **Lingyong Yan**, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li. 2026. Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models. *Accepted to ACL 2026 Findings*.
 - Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.
 - Yang Liu, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, **Lingyong Yan**.LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts. *Accepted to EACL 2026*.
 - Jiulong Wu, Yucheng Shen, **Lingyong Yan**, Haixin Sun, Deguo Xia, Jizhou Huang, Min Cao. Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis. In *AAAI 2026*.
