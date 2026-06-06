@@ -13,14 +13,9 @@ I obtained my Ph.D. in 2021 from the Institute of Software, Chinese Academy of S
 My research centers on Large Language Models, LLM-based Agents, Model Alignment, and related topics.
 I have authored more than 30 papers at top-tier AI venues such as ACL, NeurIPS, ICLR, and EMNLP, and was honored with the Outstanding Paper Award at EMNLP 2023.
 
-🔔Recruitment🔔
-===
-We are seeking self-motivated Ph.D. candidates and graduates in (v)LLM, Agentic Reasoning, and Reinforcement Learning to join us as research interns and full-time researchers, respectively. Please send your CV to yanlingyong [at] baidu [dot] com if interested.
-
 Recent Highlights
 ===
 * [2026-05] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) with overall score 58.03. 
-* [2025-04] Launched the [心响 App](https://apps.apple.com/cn/app/%E5%BF%83%E5%93%8D/id6743755526) as the **Strategy Lead**.
 
 Recent News
 ===
