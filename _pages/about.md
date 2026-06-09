@@ -15,6 +15,7 @@ I have authored more than 30 papers at top-tier AI venues such as ACL, NeurIPS, 
 
 Recent Highlights
 ===
+* [2026-06] Our paper "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning" is available on [arXiv](https://arxiv.org/abs/2606.07299).
 * [2026-05] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) with overall score 58.03. 
 
 Recent News
@@ -25,7 +26,7 @@ Recent News
 
 Recent Publications
 ===
-
+- **Lingyong Yan**, Can Xu, Yukun Zhao, Wenxuan Li, Qingyang Chen, Jiulong Wu, Wenli Song, Xiangnan Li, Weixian Shi, Yiqun Chen, Xuchen Ma, Yuchen Li, Jiashu Zhao, Shuaiqiang Wang, Jianmin Wu, Dawei Yin. 2026. DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning. *arxiv preprint arXiv:2606.07299*.
 - **Lingyong Yan\***, Jiulong Wu\*, Dong Xie, Weixian Shi, Deguo Xia, Jizhou Huang. 2026. Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation. *Accepted to SIGKDD 2026*.
 - Can Xu, **Lingyong Yan**, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li. 2026. Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models. *Accepted to ACL 2026 Findings*.
 - Yucheng Shen, Jiulong Wu, Yikai Zhang, **Lingyong Yan**, Dawei Yin, Min Cao, Mang Ye. 2026. Beyond Action Units: Towards Multi-cue Facial Emotion Analysis. *Pattern Recognition*.

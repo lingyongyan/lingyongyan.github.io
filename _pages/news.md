@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* [2026-06] Our paper "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning" is available on [arXiv](https://arxiv.org/abs/2606.07299).
 * [2026-05] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) **regained the top position** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard), achieving a new state-of-the-art overall score of 58.03. 
 * [2026-02] Our [Deep Research System](https://github.com/baidubce/qianfan-deepresearch-bench) ranked **#1** on the [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 * [2026-01] **3 papers** get accepted by AAAI 2026, TOIS and EACL 2026.
